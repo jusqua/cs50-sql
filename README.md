@@ -10,4 +10,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * [Cyberchase](week0/cyberchase)
   * [36 Views](week0/views)
   * [Normals](week0/normals)
+  * [Players](week0/players)
 
