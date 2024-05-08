@@ -11,4 +11,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * [36 Views](week0/views)
   * [Normals](week0/normals)
   * [Players](week0/players)
+* Relating
+  * [Packages, Please](week1/packages)
 
