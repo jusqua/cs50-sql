@@ -13,4 +13,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * [Players](week0/players)
 * Relating
   * [Packages, Please](week1/packages)
+  * [DESE](week1/dese)
 
