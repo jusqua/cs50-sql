@@ -18,4 +18,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
 * Designing
   * [ATL](week2/atl)
   * [Happy to Connect](week2/connect)
+  * [Union Square Donuts](week2/donuts)
 
