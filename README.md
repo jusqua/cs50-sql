@@ -19,4 +19,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * [ATL](week2/atl)
   * [Happy to Connect](week2/connect)
   * [Union Square Donuts](week2/donuts)
+* Writing
+  * [Don't Panic!](week3/dont-panic)
 
