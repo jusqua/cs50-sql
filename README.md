@@ -21,4 +21,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * [Union Square Donuts](week2/donuts)
 * Writing
   * [Don't Panic!](week3/dont-panic)
+  * [Meteorite Cleaning](week3/meteorites)
 
