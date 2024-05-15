@@ -25,4 +25,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
 * Viewing
   * [Census Taker](week3/census)
   * [The Private Eye](week3/private)
+  * [Bed and Breakfast](week3/bnb)
 
