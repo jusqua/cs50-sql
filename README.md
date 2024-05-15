@@ -24,4 +24,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * [Meteorite Cleaning](week3/meteorites)
 * Viewing
   * [Census Taker](week3/census)
+  * [The Private Eye](week3/private)
 
