@@ -22,4 +22,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
 * Writing
   * [Don't Panic!](week3/dont-panic)
   * [Meteorite Cleaning](week3/meteorites)
+* Viewing
+  * [Census Taker](week3/census)
 
