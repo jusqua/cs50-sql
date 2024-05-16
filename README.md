@@ -28,4 +28,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * [Bed and Breakfast](week4/bnb)
 * Optimizing
   * [In a Snap](week5/snap)
+  * [your.harvard](week5/harvard)
 
