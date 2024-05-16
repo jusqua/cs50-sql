@@ -23,7 +23,9 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * [Don't Panic!](week3/dont-panic)
   * [Meteorite Cleaning](week3/meteorites)
 * Viewing
-  * [Census Taker](week3/census)
-  * [The Private Eye](week3/private)
-  * [Bed and Breakfast](week3/bnb)
+  * [Census Taker](week4/census)
+  * [The Private Eye](week4/private)
+  * [Bed and Breakfast](week4/bnb)
+* Optimizing
+  * [In a Snap](week5/snap)
 
