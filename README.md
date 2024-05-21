@@ -29,4 +29,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
 * Optimizing
   * [In a Snap](week5/snap)
   * [your.harvard](week5/harvard)
+* Scaling
+  * [Happy to Connect (Sentimental)](week6/sentimental-connect)
 
