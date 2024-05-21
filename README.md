@@ -31,4 +31,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * [your.harvard](week5/harvard)
 * Scaling
   * [Happy to Connect (Sentimental)](week6/sentimental-connect)
+  * [From the Deep](week6/deep)
 
