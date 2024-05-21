@@ -33,4 +33,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * [Happy to Connect (Sentimental)](week6/sentimental-connect)
   * [From the Deep](week6/deep)
   * [Don’t Panic! (Sentimental) with Python](week6/dont-panic-python)
+  * [Don’t Panic! (Sentimental) with Java](week6/dont-panic-java)
 
